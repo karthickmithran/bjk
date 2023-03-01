@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../AI Object Finder Webapp"
+		},
+		{
+			"path": "../../AI-Video-Surveillance"
+		},
+		{
+			"path": "../../c 138"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "138 project"
+	}
+}
